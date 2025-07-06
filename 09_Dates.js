@@ -12,7 +12,8 @@ console.log(typeof myDate) // still the type will be object only
 console.log(myDate.toDateString()) // gives day and date
 console.log(myDate.toISOString())  // acoording to intenational standards
 console.log(myDate.toLocaleString())      // gives date and time according to locale standard
-console.log(myDate.toLocaleDateString())  // gives only locale date
+console.log(myDate.toLocaleDateString())  // gives only locale date.
+console.log(myDate.toLocaleTimeString())  // gives only locale time.
 console.log(myDate.toJSON()) 
 
 // Declaring a Date
