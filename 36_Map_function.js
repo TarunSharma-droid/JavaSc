@@ -12,4 +12,4 @@ const nums2 = [12,56,92,49,12,7]
 const hold2 = nums2.map((i) => i * 10 )
 
 console.log(hold2)
-
+ 
