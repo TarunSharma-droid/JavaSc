@@ -5,7 +5,7 @@ const course = {
     coursename : "Js in Hindi",
     Duration : 70,
     price : 999,
-    courseTeacher : "tarun"
+    courseTeacher : "tarun" 
 }
 
 console.log(course.coursename) 
