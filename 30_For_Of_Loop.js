@@ -18,4 +18,4 @@ for( const i of compliment){
     console.log(i)
 }
 
-// NOTE : for string : when for-of loop is defined with only single varaible (i) then it will again only takes the value of each index of the string
+// NOTE : for string : when for-of loop is defined with only single varaible (i) then it will again only takes the value of each index of the string.
