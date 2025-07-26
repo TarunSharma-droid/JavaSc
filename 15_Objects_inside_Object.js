@@ -10,7 +10,7 @@ const User = {
 }
 
 console.log(User.UserId)
-console.log(User.Fullname)
+console.log(User.Fullname) 
 console.log(User.Fullname.LastName)
 
 
